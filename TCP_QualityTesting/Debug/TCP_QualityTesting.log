@@ -1,0 +1,30 @@
+﻿生成启动时间为 2014/10/21 16:57:57。
+     1>项目“E:\Project\Project-vs2010\TCP_QualityTesting\TCP_QualityTesting\TCP_QualityTesting.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\TCP_QualityTesting.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\TCP_QualityTesting.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TCP_QualityTesting.cpp
+         TCP_QualityTesting.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\Project-vs2010\TCP_QualityTesting\Debug\TCP_QualityTesting.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TCP_QualityTesting.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Project\Project-vs2010\TCP_QualityTesting\Debug\TCP_QualityTesting.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\Project-vs2010\TCP_QualityTesting\Debug\TCP_QualityTesting.lib" /MACHINE:X86 Debug\TCP_QualityTesting.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\TCPDataOperator.obj
+         Debug\TCPOperator.obj
+         Debug\TCP_QualityTesting.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\TCP_QualityTesting.exe.embed.manifest" /manifest Debug\TCP_QualityTesting.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         TCP_QualityTesting.vcxproj -> E:\Project\Project-vs2010\TCP_QualityTesting\Debug\TCP_QualityTesting.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\TCP_QualityTesting.unsuccessfulbuild”。
+         正在对“Debug\TCP_QualityTesting.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Project\Project-vs2010\TCP_QualityTesting\TCP_QualityTesting\TCP_QualityTesting.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.41
